@@ -12,7 +12,7 @@
  
  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thadcstinson@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thadstinson/)
-[![thadstinson.com](https://img.shields.io/badge/-THADSTINSON.COM-000000?style=for-the-badge&logo=circle&logoColor=white)](https://www.thadstinson.com/)
+[![thadstinson.com](https://img.shields.io/badge/-THADSTINSON.COM-000000?style=for-the-badge&logo=circle&logoColor=white)](https://thadstinson.com/)
  
 ![<Thad's GitHub Stats>](https://github-readme-stats.vercel.app/api?username=ThadStin&show_icons=true&theme=dark&hide=issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThadStin&layout=compact&theme=dark)](https://github.com/<ThadStin>/<ThadStin>)
