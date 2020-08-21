@@ -1,4 +1,4 @@
-[![Header](https://photos.google.com/photo/AF1QipMd4Qa1mWEqnfuR87OtE0GpU_gxxpEOYQySDfNn)](https://thadstinson.com)
+[![Header](https://lh3.googleusercontent.com/pw/ACtC-3fg9kFCL0dxDKlT4UiFHf-KL46JVi-TV2vaMAIVUPOnHVTrxQPUnFfELWmFLiOQX95NEEyuoKIsrTwKYf6zLxce0k5VjQOWZSL-xchJEKP_9hMpqPdF9JLnttMG53roqtgZhbsoRVt8mX3NnH02KQm1=w1096-h315-no)](https://thadstinson.com)
 
 
 
